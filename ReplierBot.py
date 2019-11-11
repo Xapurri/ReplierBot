@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 12 15:49:32 2019
-
-@author: Xavi
-"""
 
 import tweepy, time
 #Access
